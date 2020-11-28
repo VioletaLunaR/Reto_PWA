@@ -48,7 +48,12 @@ body {
 	align-items: center;
 	font-family: 'Montserrat';
 	font-size: 3em;
-	padding: 2em;
+  padding: 2em;
+
+}
+p
+{
+  font-size: 2rem;
 }
 
 body, html {
